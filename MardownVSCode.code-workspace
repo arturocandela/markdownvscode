@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "CONTEXTUALIZACION"
+		},
+		{
+			"path": "css"
+		},
+
+		{
+			"path": "II. PROGRAMACION"
+		},
+	],
+	"settings": {
+		"markdown-pdf.plantumlCloseMarker": "```",
+		"markdown-pdf.plantumlOpenMarker": "```plantuml",
+		"markdown.styles": [
+			"../css/markdown-screen.css"
+		],
+		"editor.fontSize": 18,
+		"markdown.preview.fontSize": 16,
+		"markdown.extension.toc.levels": "2..4",
+		"markdown.extension.toc.unorderedList.marker": "*",
+		"markdown-pdf.plantumlServer": "https://www.plantuml.com/plantuml",
+		"plantuml.render": "PlantUMLServer",
+		"plantuml.server": "https://www.plantuml.com/plantuml",
+		"cSpell.words": [
+			"Ciberseguridad",
+			"Contextualización",
+			"preprocesador"
+		],
+		"markdown-pdf.margin.top": "1cm"
+	}
+}
